@@ -185,7 +185,7 @@ const LoginPage = (): ReactElement => {
           <div className="space-y-2">
             <h1 className="text-3xl font-bold tracking-tight">AI 할 일 관리</h1>
             <p className="text-muted-foreground">
-              AI의 힘으로 더 스마트하게 일을 관리하세요
+              AI가 도와주는 스마트한 할 일 관리
             </p>
           </div>
           <div className="flex flex-wrap justify-center gap-2 text-sm text-muted-foreground">
